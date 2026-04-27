@@ -1,0 +1,23 @@
+[
+  {
+    "model": "1D-CNN",
+    "accuracy": 0.8046,
+    "precision": 0.7889,
+    "recall": 0.8046,
+    "f1": 0.7596
+  },
+  {
+    "model": "BiLSTM",
+    "accuracy": 0.7936,
+    "precision": 0.7868,
+    "recall": 0.7936,
+    "f1": 0.7866
+  },
+  {
+    "model": "iTransformer (ICLR 2024)",
+    "accuracy": 0.8029086173214673,
+    "precision": 0.7817737189514343,
+    "recall": 0.8029086173214673,
+    "f1": 0.7753430568852478
+  }
+]
