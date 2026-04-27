@@ -18,6 +18,8 @@
 
 ---
 
+![Problem Statement](results/problem_statement_banner.png)
+
 ## 🎯 The Problem
 
 Gait disorders affect hundreds of millions of people worldwide. Conditions like **Parkinson's disease**, **post-stroke hemiplegia**, and **general mobility impairments** all manifest as abnormal walking patterns.
